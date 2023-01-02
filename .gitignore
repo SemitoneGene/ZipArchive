@@ -24,3 +24,7 @@ Pods/
 
 # Swift Package Manager
 .build/
+
+# Universal framework
+ZipArchive.xcframework
+build
